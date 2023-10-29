@@ -1,0 +1,3 @@
+cmake --list-presets configure
+cmake --preset my-preset
+cmake --preset my-preset-multi
